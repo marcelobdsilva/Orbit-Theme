@@ -2,6 +2,7 @@
 
 ##Theme Details & Demo
 
+
 **Demo:** http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/
 
 Orbit is a free resume/CV template designed for developers. Looking to **impress your potential employer**? Get this template and you can **send an online resume/CV** instead of a word/pdf attachment. You can **easily make different versions of your online resume/CV** to tailor for different job positions too. 
